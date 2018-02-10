@@ -24,7 +24,7 @@ public class Main {
 	    Scanner entry = new Scanner(System.in);
 
 	    //display to the user what the application does
-        System.out.println("\nBelow will be display 5 lines from well know nursery rhymes, fill in the blanks.\n");
+        System.out.println("\nBelow will be displayed 5 lines from well know nursery rhymes, fill in the blanks.\n");
 
 	    //display question one to the user and get the answer and trim it
 	    System.out.println("\n" + question1);
